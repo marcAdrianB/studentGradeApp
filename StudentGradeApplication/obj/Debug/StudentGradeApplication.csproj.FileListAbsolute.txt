@@ -1,0 +1,12 @@
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.SuggestedBindingRedirects.cache
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.frmStudentGradeProgram.resources
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.Properties.Resources.resources
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.result.resources
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.GenerateResource.cache
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\kosaka\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe.config
+C:\kosaka\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe
+C:\kosaka\StudentGradeApplication\bin\Debug\StudentGradeApplication.pdb
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.exe
+C:\kosaka\StudentGradeApplication\obj\Debug\StudentGradeApplication.pdb
